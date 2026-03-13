@@ -1,2 +1,2 @@
-# silabus-extractor
-Web scraper for extracting syllabus/course information from websites
+# AI-News
+Issues that contain AI news from HackerNews and X posts
